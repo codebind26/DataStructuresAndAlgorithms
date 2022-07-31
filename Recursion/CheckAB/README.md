@@ -14,13 +14,13 @@ String S
 # Output format :
 'true' or 'false'
 
-# Sample Input 1 #:
+### Sample Input 1 :
 abb
-# Sample Output 1 :
+Sample Output 1 :
 true
-# Sample Input 2 :
+Sample Input 2 :
 abababa
-# Sample Output 2 :
+Sample Output 2 :
 false
 
 In the above example, a is not followed by either "a" or "bb", 

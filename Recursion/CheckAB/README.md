@@ -14,7 +14,7 @@ String S
 # Output format :
 'true' or 'false'
 
-# Sample Input 1 :
+# Sample Input 1 #:
 abb
 # Sample Output 1 :
 true

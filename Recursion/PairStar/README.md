@@ -15,4 +15,4 @@ hel*lo
 ### Sample Input 2 :
 aaaa
 ### Sample Output 2 :
-a*a*a*a
+a*a*a*a 

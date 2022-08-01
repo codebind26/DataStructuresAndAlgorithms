@@ -13,6 +13,6 @@ hello
 ### Sample Output 1:
 hel*lo
 ### Sample Input 2 :
-aaaa
+abaa
 ### Sample Output 2 :
-a*a*a*a 
+aba*a 
